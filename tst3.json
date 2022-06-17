@@ -1,10 +1,10 @@
 {
-   "name":"Arbed Uniswap",
-   "timestamp":"2022-05-19T14:17:09.572Z",
-   "version":{
-      "major":2,
-      "minor":4,
-      "patch":0
+   "name": "Uniswap Labs Default List",
+   "timestamp": "2022-06-13T05:33:51.060Z",
+   "version": {
+     "major": 3,
+     "minor": 2,
+     "patch": 0
    },
    "tags": {},
    "logoURI":"ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
@@ -23,10 +23,7 @@
          "extensions":{
             "bridgeInfo":{
                "137":{
-                  "tokenAddress":"0x111111111117dc0aa78b770fa6a738034120c302",
-                  "originBridgeAddress":"0x09e9222e96e7b4ae2a407b98d48e330053351eee",
-                  "destBridgeAddress":"0xa3A7B6F88361F48403514059F1F16C8E78d60EeC"
-               }
+                  "tokenAddress":"0x111111111117dc0aa78b770fa6a738034120c302"
             }
          }
       }
