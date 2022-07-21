@@ -1,0 +1,32 @@
+{
+  "name": "UniswapLabs Extended",
+  "timestamp": "2022-07-21T16:48:36.258Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "uniswap",
+    "extended"
+  ],
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xEE06A81a695750E71a662B51066F2c74CF4478a0",
+      "name": "Decentral Games  Old",
+      "symbol": "$DG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13267/thumb/%28Old%29_DG.png?1639209538",
+      "extensions": {
+        "bridgeInfo": {
+          "137": {
+            "tokenAddress": "0x2a93172c8DCCbfBC60a39d56183B7279a2F647b4"
+          }
+        }
+      }
+    }
+  ]
+}
