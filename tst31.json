@@ -1,6 +1,6 @@
 {
   "name": "Uniswap Labs Extended",
-  "timestamp": "2022-07-21T23:41:01.822Z",
+  "timestamp": "2022-07-22T16:47:40.751Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -2422,6 +2422,21 @@
           },
           "42161": {
             "tokenAddress": "0x5d8C5293dAbc2c861d2F6dbd4Bb0600889fdaDf3"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x178c820f862B14f316509ec36b13123DA19A6054",
+      "name": "Energy Web Token Bridged",
+      "symbol": "EWTB",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "bridgeInfo": {
+          "137": {
+            "tokenAddress": "0x43E4B063F96c33F0433863A927F5bad34bb4B03d"
           }
         }
       }
@@ -6301,6 +6316,21 @@
     },
     {
       "chainId": 1,
+      "address": "0xB4EFd85c19999D84251304bDA99E90B92300Bd93",
+      "name": "Rocket Pool",
+      "symbol": "RPL",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "bridgeInfo": {
+          "137": {
+            "tokenAddress": "0x7205705771547cF79201111B4bd8aaF29467b9eC"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 1,
       "address": "0x3155BA85D5F96b2d030a4966AF206230e46849cb",
       "name": "THORChain  ERC20",
       "symbol": "RUNE",
@@ -8279,6 +8309,14 @@
           }
         }
       }
+    },
+    {
+      "chainId": 1,
+      "address": "0x6107F4901476c3449403a1d908E19148950C2BC5",
+      "name": "YASHADAO",
+      "symbol": "YASHA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24040/small/oX9E7Q7.png?1646119331"
     },
     {
       "chainId": 1,
@@ -10667,6 +10705,21 @@
         "bridgeInfo": {
           "1": {
             "tokenAddress": "0xdB25f211AB05b1c97D595516F45794528a807ad8"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x43E4B063F96c33F0433863A927F5bad34bb4B03d",
+      "name": "Energy Web Token Bridged",
+      "symbol": "EWTB",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x178c820f862B14f316509ec36b13123DA19A6054"
           }
         }
       }
@@ -13442,6 +13495,21 @@
         "bridgeInfo": {
           "1": {
             "tokenAddress": "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x7205705771547cF79201111B4bd8aaF29467b9eC",
+      "name": "Rocket Pool",
+      "symbol": "RPL",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xB4EFd85c19999D84251304bDA99E90B92300Bd93"
           }
         }
       }
